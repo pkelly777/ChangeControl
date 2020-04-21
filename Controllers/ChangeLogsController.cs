@@ -13,6 +13,7 @@ namespace ChangeControlApp.Controllers
 {
     public class ChangeLogsController : Controller
     {
+        //t
         private readonly ApplicationDbContext _db;
 
         [BindProperty]
